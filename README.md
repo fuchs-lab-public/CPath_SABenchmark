@@ -1,1 +1,1 @@
-# CPath_Emd_Agg
+# CPath_Embedding_Agg
