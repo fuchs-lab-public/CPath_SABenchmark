@@ -1,5 +1,7 @@
 # CPath_Embedding_Agg
 
+![evolutionary tree](https://github.com/fuchs-lab-public/CPath_SABenchmark/blob/main/evolutionary_tree.jpg)
+
 ## Foundation Models in CPath
 ### 2024
 * Prov-GigaPath: [A whole-slide foundation model for digital pathology from real-world data](https://www.nature.com/articles/s41586-024-07441-w)
