@@ -5,11 +5,11 @@
 * Prov-GigaPath: [A whole-slide foundation model for digital pathology from real-world data](https://www.nature.com/articles/s41586-024-07441-w)
 * UNI: [Towards a general-purpose foundation model for computational pathology](https://www.nature.com/articles/s41591-024-02857-3)
 ### 2023
-* 
+* 3B-CPath: [Computational Pathology at Health System Scale – Self-Supervised Foundation Models from Three Billion Images](https://arxiv.org/abs/2310.07033)
 ### 2022
 * CTransPath: [Transformer-based unsupervised contrastive learning for histopathological image classification](https://www.sciencedirect.com/science/article/pii/S1361841522002043)
 ### 2021
-* SlideGraph: [Whole Slide Image Level Graphs to Predict HER2 Status in Breast Cancer]()
+
 
 ## Slide-Level Aggregation Methods in CPath
 ### 2024
@@ -22,6 +22,7 @@
 * CLAM: [Data-efficient and weakly supervised computational pathology on whole-slide images](https://www.nature.com/articles/s41551-020-00682-w)
 * VarMIL: [Incorporating intratumoral heterogeneity into weakly-supervised deep learning models via variance pooling](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_38)
 * PatchGCN: [Whole Slide Images are 2D Point Clouds: Context-Aware Survival Prediction using Patch-based Graph Convolutional Networks](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_33)
+* SlideGraph: [Whole Slide Image Level Graphs to Predict HER2 Status in Breast Cancer](https://www.sciencedirect.com/science/article/pii/S1361841522001335?via%3Dihub)
 ### 2020
 * LossAB-MIL: [Loss-Based Attention for Deep Multiple Instance Learning](https://ojs.aaai.org/index.php/AAAI/article/view/6030)
 * DeepAttnMISL: [Whole slide images based cancer survival prediction using attention guided deep multiple instance learning networks](https://www.sciencedirect.com/science/article/pii/S1361841520301535?casa_token=xYY_mZyvbTMAAAAA:y3m322UKVvmbHRw16SkMPMw8ZhVyVKmOwdB-dvaAwP4L5tZBWHNwV2hutSVT9tpOifdvj9zm7Oe3)
