@@ -4,9 +4,13 @@
 
 ## Foundation Models in CPath
 ### 2024
+* RudolfV: [RudolfV: A Foundation Model by Pathologists for Pathologists](https://arxiv.org/abs/2401.04079)
 * Prov-GigaPath: [A whole-slide foundation model for digital pathology from real-world data](https://www.nature.com/articles/s41586-024-07441-w)
 * UNI: [Towards a general-purpose foundation model for computational pathology](https://www.nature.com/articles/s41591-024-02857-3)
+
 ### 2023
+* Virchow: [Virchow: A Million-Slide Digital Pathology Foundation Model](https://arxiv.org/abs/2309.07778)
+* Phikon: [Scaling Self-Supervised Learning for Histopathology with Masked Image Modeling](https://www.medrxiv.org/content/10.1101/2023.07.21.23292757v2)
 * 3B-CPath: [Computational Pathology at Health System Scale – Self-Supervised Foundation Models from Three Billion Images](https://arxiv.org/abs/2310.07033)
 ### 2022
 * CTransPath: [Transformer-based unsupervised contrastive learning for histopathological image classification](https://www.sciencedirect.com/science/article/pii/S1361841522002043)
@@ -16,7 +20,14 @@
 ## Slide-Level Aggregation Methods in CPath
 ### 2024
 ### 2023
+* HEAT: [Histopathology Whole Slide Image Analysis With Heterogeneous Graph Representation Learning](https://openaccess.thecvf.com/content/CVPR2023/html/Chan_Histopathology_Whole_Slide_Image_Analysis_With_Heterogeneous_Graph_Representation_Learning_CVPR_2023_paper.html)
+* 
+
 ### 2022
+* GTP: [A Graph-Transformer for Whole Slide Image Classification](https://arxiv.org/abs/2205.09671)
+* H2-MIL: [H2-Exploring hierarchical representation with heterogeneous multiple instance learning for whole slide image analysis.](https://ojs.aaai.org/index.php/AAAI/article/view/19976)
+* SET-MIL: [SETMIL: Spatial Encoding Transformer-Based Multiple Instance Learning for Pathological Image Analysis](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_7)
+* DT-MIL: [DT-MIL: deformable transformer for multi-instance learning on histopathological image](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_20)
 * HIPT: [Scaling vision transformers to gigapixel images via hierarchical self-supervised learning](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Scaling_Vision_Transformers_to_Gigapixel_Images_via_Hierarchical_Self-Supervised_Learning_CVPR_2022_paper.html?trk=public_post_comment-text)
 ### 2021
 * DS-MIL: [Dual-stream Multiple Instance Learning Network for Whole Slide Image Classification with Self-supervised Contrastive Learning](https://arxiv.org/abs/2011.08939)
